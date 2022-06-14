@@ -1,0 +1,62 @@
+body {
+    background-color: #456bf8;
+    color: #f8456b;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 70px;
+}
+
+h2 {
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+
+.posts {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    text-align: center;
+
+
+}
+
+img {
+    width: 130px;
+    border: 5px double #6bf845;
+    padding: 5px;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 300px;
+    text-align: center;
+}
+
+
+.likes {
+    border: 5px #6bf845 solid;
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+}
+
+.liked-photo {
+    position: relative;
+}
+
+.Instructions {
+    text-align: center;
+}
